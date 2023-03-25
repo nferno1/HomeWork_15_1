@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HomeWork_15_1</string>
+    <string name="inter_string">Введите слово</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="list_text">Список</string>
+</resources>

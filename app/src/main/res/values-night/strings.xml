@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="inter_string">Введите слово</string>
+    <string name="add">Добавить</string>
+    <string name="clear">Очистить</string>
+    <string name="list_text">Список</string>
+</resources>
